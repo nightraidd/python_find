@@ -88,7 +88,6 @@ def options(option,tip):
     if option==2:
         find_dir(path,name)
     if option==3:
-        print("ok")
         find_file(path,name)
     if option==4: 
         find_dir_allname(path,name)
